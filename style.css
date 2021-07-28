@@ -22,3 +22,7 @@
     font-style: normal;
 
 }
+
+h1:hover {
+  color: #5b92e5;
+}
